@@ -3,6 +3,9 @@
 This document explains how to use the simulation system that connects Unity, ROS2, and the real robotic arm.
 Follow these steps carefully to plan, simulate, and then execute operations safely.
 
+
+
+
 ## Overview
 
 This project is designed for **nuclear decommissioning operations** where a robotic arm is used for cutting and handling work in a hazardous area.
@@ -15,8 +18,7 @@ This workflow makes the process **safe, predictable, and repeatable**.
 ---
 ## System Flowchart
 
-https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1kp5eRmy5z6f34V0nb5V4T7CVHExZ4qcy%26export%3Ddownload
-
+<img width="738" height="2310" alt="FlowChart drawio" src="https://github.com/user-attachments/assets/e6eab56f-1260-4fc9-b6cb-afd508f83aa6" />
 ---
 ## System Setup
 
